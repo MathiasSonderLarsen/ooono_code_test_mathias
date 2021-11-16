@@ -14,6 +14,7 @@ How the UI looks is not the main concern, but it should be functional. We are in
 
 ## Example
 Please disregard the difference in size.
+
 ![Main Screen](/Screenshots/MainScreen.png)
 ![Details screen](/Screenshots/DetailsScreen.png)
 
