@@ -31,14 +31,14 @@ For simplicity all network calls is replaced with a local function call see Gett
   - Be able to go back to Main Screen
 - Main screen
   - Show number of votes for road work
-- Details screen
-  - Be able to upvote a road work
-  - Main screen should update number of votes
-
 
 ## Optional tasks
 - Be able to sort road works based on city or votes
 - Add timer to get list of roadworks every 15 seconds and refresh view
+- Details screen
+  - Be able to upvote a road work
+  - Main screen should update number of votes
+
 
 # Getting started
 To start clone this project
