@@ -19,8 +19,8 @@ Please disregard the difference in size.
 ![Details screen](/Screenshots/DetailsScreen.png)
 
 # Tasks
-The goal for this task is to construng an app, where you are able to see all nearby road works.
-For simplicity all network calls is replaced with a local function call.
+The goal for this task is to construct an app, where you are able to see all nearby road works.
+For simplicity all network calls is replaced with a local function call see Getting started.
 
 ## Required tasks
 - Main Screen
@@ -38,7 +38,7 @@ For simplicity all network calls is replaced with a local function call.
 
 ## Optional tasks
 - Be able to sort road works based on city or votes
-- Add timer to reload data every 15 seconds
+- Add timer to get list of roadworks every 15 seconds and refresh view
 
 # Getting started
 To start clone this project
