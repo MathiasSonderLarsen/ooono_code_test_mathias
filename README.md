@@ -1,7 +1,7 @@
 # OOONO Nearby road works positions code test
 
 The content of this repo consists of the start for the project as well as this readme.
-Below you will fild the instructions for the code test, as well as a scetch of layout.
+Below you will fild the instructions for the code test, as well as a sketch of layout.
 The goal is to implement the functionality under Tasks.
 For each subtask, please make a local commit.
 
