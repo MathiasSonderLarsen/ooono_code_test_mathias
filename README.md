@@ -37,3 +37,8 @@ To start clone this project
 ```bash
 git clone https://github.com/ooemil/ooono_swift_code_test.git
 ```
+
+To get list of roadworks call:
+```swift
+ GetRoadWorksHelper.shared.getRoadWorks()
+```
