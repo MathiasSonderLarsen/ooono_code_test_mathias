@@ -2,8 +2,8 @@
 
 The content of this repo consists of the start for the project as well as this readme.
 Below you will fild the instructions for the code test, as well as a scetch of layout.
-The goal is to implement the functionality under tasks.
-For each task, please make a local commit.
+The goal is to implement the functionality under Tasks.
+For each subtask, please make a local commit.
 
 When you are finished, the project should be compressed to a `.zip` and send by email.
 Please do not push to this repo.
@@ -19,18 +19,26 @@ Please disregard the difference in size.
 ![Details screen](/Screenshots/DetailsScreen.png)
 
 # Tasks
+The goal for this task is to construng an app, where you are able to see all nearby road works.
+For simplicity all network calls is replaced with a local function call.
 
 ## Required tasks
 - Main Screen
   - Show list of road works in alphabetical order
   - If user click a road work, open a details screen
-  - Be able to upvote a road work
 - Details screen
   - Show details for the road works
+  - Be able to go back to Main Screen
+- Main screen
+  - Show number of votes for road work
+- Details screen
+  - Be able to upvote a road work
+  - Main screen should update number of votes
+
 
 ## Optional tasks
-- Be able to sort road works based on votes
-- Be able to downvote a road work
+- Be able to sort road works based on city or votes
+- Add timer to reload data every 15 seconds
 
 # Getting started
 To start clone this project
